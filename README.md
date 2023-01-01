@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python,Html,CSS,Javascript and Logo Design.
 - 🌱 I’m currently learning DSA,Backend with Django,Logo design,etc.
 - 💞️ I’m looking to collaborate on Backend developmenr,Data science.
-- 📫 How to reach me @ydvshivam10@gmail.com and through linkedin-: www.linkedin.com/in/shivamkumar10
+- 📫 How to reach me gmail:-ydvshivam10@gmail.com and through linkedin-: www.linkedin.com/in/shivamkumar10
 
 <!---
 shivamkumar4344/shivamkumar4344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
