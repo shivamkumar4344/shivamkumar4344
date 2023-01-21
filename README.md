@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamkumar4344
 - 👀 I’m interested in Python,Html,CSS,Javascript and Logo Design.
 - 🌱 I’m currently learning DSA,Backend with Django,Logo design,etc.
-- 💞️ I’m looking to collaborate on Backend developmenr,Data science.
+- 💞️ I’m looking to collaborate on Backend development,Data science and Logo Design.
 - 📫 How to reach me gmail:-ydvshivam10@gmail.com and through linkedin-: www.linkedin.com/in/shivamkumar10
 
 <!---
